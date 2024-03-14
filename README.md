@@ -1,2 +1,2 @@
 # Home_Sales
-Utilize SparkSQL to determine key metrics about home sales data
+Utilize SparkSQL to determine key metrics about home sales data. Assignment reads data into a SparkSQL dataframe and queries the data. Code then tests the runtime using parquet and caching techniques. 
